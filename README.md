@@ -3,6 +3,32 @@ I’m a **Researcher** and an educator with a growing interest in **Natural Lang
 
 In addition to my technical work, I’m currently **instructing college students** who are passionate about learning coding. I love sharing my knowledge and inspiring the next generation of developers!
 
+## Skills
+
+- **Programming Languages:**
+  - Python
+  - JavaScript
+  - C++
+  - Java
+
+- **Web Development:**
+  - HTML, CSS, JavaScript
+
+- **Data Science & AI:**
+  - Pandas
+  - NumPy
+  - Scikit-Learn
+  - TensorFlow
+  - PyTorch
+  - Transformers
+
+- **Tools & Technologies:**
+  - Git & GitHub
+  - VS Code
+  - Linux
+  - Tableau & Power BI
+  - MS Excel
+
 ### 👀 What I’m Working On:
 - **Web Development**: Exploring both front-end and back-end technologies, with a special focus on **HTML**, **JavaScript**, and **React**.
 - **NLP**: Diving deep into **machine learning** models and **text analytics**. Currently experimenting with text translation and sentiment analysis tools.
